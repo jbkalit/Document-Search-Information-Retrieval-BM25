@@ -3,6 +3,7 @@ Document searching using best matching ranking BM25 for Final Project Informatio
 This project implements BM25 algorithm described in [this paper](https://pdfs.semanticscholar.org/c0a4/8ed7577a7b48288dfb2711cbd86e30636b5f.pdf) for ranking documents according to relevance.
 
 * Install PyPdfReader
+
         pip install pyPdf
 
 ## Known issues
