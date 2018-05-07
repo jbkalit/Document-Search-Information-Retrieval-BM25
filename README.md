@@ -10,4 +10,4 @@ This project implements BM25 algorithm described in [this paper](https://pdfs.se
 This implementation is best fit for small datasets because it lacks the inverted index required for fast querying in big datasets
 
 ## Alternatives
-https://github.com/nhirakawa/BM25
+https://github.com/varadchoudhari/Resume-Matcher
